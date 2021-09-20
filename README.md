@@ -1,0 +1,1 @@
+The website will consist of a main index page which will have links to a few recipes. This will not look good, but is just a starting point for understanding the creation of pages.
